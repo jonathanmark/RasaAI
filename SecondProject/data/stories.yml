@@ -42,5 +42,5 @@ stories:
   - intent: order_pizza
   - action: utter_pizza_ordering_refuse
   - intent: deny
-  - action: utter_goodbye
+  - action: action_extract_food_entity
 

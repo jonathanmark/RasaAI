@@ -41,7 +41,10 @@ responses:
   - text: "I can help you with your ServiceNow Activities! What type of help do you need?"
 
   utter_pizza_ordering_refuse:
-    - text: "I aint gonna order no god damn pizza wat the fuck wrong witchu!?"
+  - text: "I aint gonna order no god damn pizza wat the fuck wrong witchu!?"
+
+actions:
+  - action_extract_food_entity
 
 session_config:
   session_expiration_time: 60

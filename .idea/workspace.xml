@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e37ff5ad-27c4-4339-a2c2-c72a3cb89414" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/RASA_Pyv9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondProject/.rasa/cache/cache.db" beforeDir="false" afterPath="$PROJECT_DIR$/SecondProject/.rasa/cache/cache.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondProject/actions/actions.py" beforeDir="false" afterPath="$PROJECT_DIR$/SecondProject/actions/actions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondProject/data/stories.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SecondProject/data/stories.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondProject/domain.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SecondProject/domain.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecondProject/endpoints.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SecondProject/endpoints.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
   &quot;keyToString&quot;: {
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
